@@ -72,6 +72,6 @@ LocalStorage API
 ## 📌 License
 This project is open-source and available under the MIT License.
 
-*👋 Thank You for checking out TaskNest!
-*Stay organized. Stay productive.
+**👋 Thank You for checking out TaskNest!
+Stay organized. Stay productive.**
 
