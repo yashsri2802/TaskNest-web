@@ -45,7 +45,7 @@ Check out the live version of TaskNest here:
 
 6. Open your browser and visit http://localhost:5173
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 React.js
 
 HTML5
@@ -56,7 +56,7 @@ JavaScript (ES6+)
 
 LocalStorage API
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 ✨ Task Categories/Tags – Organize tasks under different labels.
 
 ⏰ Due Dates & Reminders – Set deadlines and get notified.
@@ -69,7 +69,7 @@ LocalStorage API
 
 📊 Progress Tracker – Visual insights on task completion.
 
-##📌 License
+## 📌 License
 This project is open-source and available under the MIT License.
 
 *👋 Thank You for checking out TaskNest!
