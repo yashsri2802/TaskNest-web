@@ -37,15 +37,15 @@ Check out the live version of TaskNest here:
    
 2. **Install dependencies**
    ```bash
-npm install
+   npm install
 
 4. **Run the app**
    ```bash
-npm start
+   npm start
 
 6. Open your browser and visit http://localhost:5173
 
-**🛠️ Tech Stack
+##🛠️ Tech Stack
 React.js
 
 HTML5
@@ -56,8 +56,10 @@ JavaScript (ES6+)
 
 LocalStorage API
 
-**🔮 Future Enhancements
+##🔮 Future Enhancements
 ✨ Task Categories/Tags – Organize tasks under different labels.
+
+⏰ Due Dates & Reminders – Set deadlines and get notified.
 
 🌙 Dark Mode – Toggle between light and dark themes.
 
@@ -65,7 +67,9 @@ LocalStorage API
 
 ☁️ Cloud Sync – Save tasks across multiple devices using cloud storage.
 
-📌 License
+📊 Progress Tracker – Visual insights on task completion.
+
+##📌 License
 This project is open-source and available under the MIT License.
 
 *👋 Thank You for checking out TaskNest!
