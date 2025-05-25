@@ -13,8 +13,8 @@ Check out the live version of TaskNest here:
 
 ## 📸 Screenshots
 
-### ✅ Main Interface
-![TaskNest Screenshot](./preview-TaskNest.png)
+### 🖼️ TaskNest Preview
+![TaskNest Preview](./Preview-TaskNest.png)
 
 ## 🌟 Features
 
