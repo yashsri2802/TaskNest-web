@@ -32,18 +32,20 @@ Check out the live version of TaskNest here:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yashsri2802/tasknest.git
-   cd tasknest
+   git clone https://github.com/yashsri2802/TaskNest-web.git
+   cd TaskNest-web
    
 2. **Install dependencies**
+   ```bash
 npm install
 
-3. **Run the app**
+4. **Run the app**
+   ```bash
 npm start
 
-4. Open your browser and visit http://localhost:5173/5174
+6. Open your browser and visit http://localhost:5173
 
-🛠️ Tech Stack
+**🛠️ Tech Stack
 React.js
 
 HTML5
@@ -54,7 +56,7 @@ JavaScript (ES6+)
 
 LocalStorage API
 
-🔮 Future Enhancements
+**🔮 Future Enhancements
 ✨ Task Categories/Tags – Organize tasks under different labels.
 
 🌙 Dark Mode – Toggle between light and dark themes.
@@ -66,6 +68,6 @@ LocalStorage API
 📌 License
 This project is open-source and available under the MIT License.
 
-👋 Thank You for checking out TaskNest!
-Stay organized. Stay productive.
+*👋 Thank You for checking out TaskNest!
+*Stay organized. Stay productive.
 
